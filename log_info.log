@@ -1,0 +1,63 @@
+INFO 2021-04-30 15:50:20,149 - Reading Filename and Expiry_Date
+INFO 2021-04-30 15:50:21,209 - opening a google script Master
+INFO 2021-04-30 15:50:24,000 - completed loading data to python_IF sheet
+INFO 2021-04-30 15:50:35,813 - Reading Filename and Expiry_Date
+ERROR 2021-04-30 15:50:35,815 - The entered file doesnot exist or not a csv file .Plz enter the correct file
+INFO 2021-04-30 15:56:46,917 - Reading Filename and Expiry_Date
+ERROR 2021-04-30 15:56:46,921 - The entered file doesnot exist or not a csv file .Plz enter the correct file
+INFO 2021-04-30 15:56:55,963 - Reading Filename and Expiry_Date
+INFO 2021-04-30 15:56:56,799 - opening a google script Master
+INFO 2021-04-30 15:56:59,798 - completed loading data to python_IF sheet
+INFO 2021-04-30 16:00:27,791 - Reading Filename and Expiry_Date
+INFO 2021-04-30 16:00:28,688 - opening a google script Master
+INFO 2021-04-30 16:00:57,645 - completed loading data to python_IF sheet
+INFO 2021-04-30 23:48:40,508 read_data_from_file - Reading Filename and Expiry_Date
+INFO 2021-04-30 23:48:41,379 writetogs - opening a google script Master
+INFO 2021-04-30 23:48:45,130 writetogs - completed loading data to python_IF sheet
+ERROR 2021-05-02 14:33:31,124 main - The entered file doesnot exist or not a csv file .Plz enter the correct file
+ERROR 2021-05-02 15:43:02,583 main - The entered file doesnot exist or not a json file .Plz enter the correct file
+INFO 2021-05-02 15:43:51,956 main - an argument is missing
+INFO 2021-05-02 15:47:34,684 main - an argument is missing
+INFO 2021-05-02 15:56:29,376 main - an argument/arguments missing 
+INFO 2021-05-02 16:29:07,123 main - an argument/arguments missing
+INFO 2021-05-02 16:32:55,092 main - an argument/arguments missing
+ERROR 2021-05-02 16:34:02,755 main - The entered file doesnot exist or not a json file .Plz enter the correct file
+INFO 2021-05-02 19:19:07,048 - Reading Filename and Expiry_Date
+INFO 2021-05-02 19:19:08,067 - opening a google script Master
+INFO 2021-05-02 19:19:11,158 - completed loading data to python_IF sheet
+INFO 2021-05-02 19:19:19,923 - an argument/arguments missing.please enter json file,csv file and an expiry date
+INFO 2021-05-02 19:19:55,752 - an argument/arguments missing.please enter json file,csv file and an expiry date
+INFO 2021-05-02 19:20:48,781 - Reading Filename and Expiry_Date
+INFO 2021-05-02 19:20:49,080 - This is the incorrect date string format. It should be DD-Mmm-YYYY
+ERROR 2021-05-02 19:21:13,594 - The entered file doesnot exist or not a json file .Plz enter the correct file
+INFO 2021-05-02 19:21:33,063 - Reading Filename and Expiry_Date
+INFO 2021-05-02 19:21:33,948 - opening a google script Master
+INFO 2021-05-02 19:21:36,357 - completed loading data to python_IF sheet
+INFO 2021-05-02 19:23:33,009 - Reading Filename and Expiry_Date
+ERROR 2021-05-02 19:23:33,327 - This is the incorrect date string format. It should be DD-Mmm-YYYY
+INFO 2021-05-03 15:52:04,839 - an argument/arguments missing.please enter json file,csv file and an expiry date
+INFO 2021-05-03 15:52:25,668 - Reading Filename and Expiry_Date
+INFO 2021-05-03 15:52:26,695 - opening a google script Master
+INFO 2021-05-03 15:52:30,601 - completed loading data to python_IF sheet
+INFO 2021-05-03 15:52:56,173 - an argument/arguments missing.please enter json file,csv file and an expiry date
+INFO 2021-05-03 15:53:32,793 - Reading Filename and Expiry_Date
+ERROR 2021-05-03 15:53:33,153 - This is the incorrect date string format. It should be DD-Mmm-YYYY
+INFO 2021-05-03 15:53:49,380 - Reading Filename and Expiry_Date
+ERROR 2021-05-03 15:53:49,381 - The entered file doesnot exist or not a csv file .Plz enter the correct file
+INFO 2021-05-03 16:02:18,837 - Reading Filename and Expiry_Date
+ERROR 2021-05-03 16:02:18,838 - The entered file doesnot exist or not a csv file .Plz enter the correct file
+INFO 2021-05-03 16:02:44,675 - an argument/arguments missing.please enter json file,csv file and an expiry date
+INFO 2021-05-04 12:08:12,220 - Reading Filename and Expiry_Date
+ERROR 2021-05-04 12:08:12,222 - The entered file doesnot exist or not a csv file .Plz enter the correct file
+INFO 2021-05-04 12:51:11,473 - Reading Filename and Expiry_Date
+INFO 2021-05-04 12:51:12,424 - opening a google script Master
+INFO 2021-05-04 12:51:16,248 - completed loading data to python_IF sheet
+INFO 2021-05-04 12:51:30,466 - Reading Filename and Expiry_Date
+INFO 2021-05-04 12:51:30,875 - there is No data filtered to write to google sheet
+INFO 2021-05-04 12:56:40,636 - Reading Filename and Expiry_Date
+INFO 2021-05-04 12:56:41,543 - opening a google script Master
+INFO 2021-05-04 12:56:45,826 - completed loading data to python_IF sheet
+INFO 2021-05-04 12:58:14,261 - Reading Filename and Expiry_Date
+INFO 2021-05-04 12:58:15,085 - stock dat avilable and will be loaded to python_If google sheet
+INFO 2021-05-04 12:58:15,114 - opening a google script Master
+INFO 2021-05-04 12:58:16,914 - completed loading data to python_IF sheet
